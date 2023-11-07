@@ -21,3 +21,8 @@ Ej.- cd ../../
 - 03-Raices (```cd assignments/03-Raices```)
 - 04-Inversion (```cd assignments/04-Inversion```)
 
+# Navegación - Home
+Para regresar al Home del repositorio, use:
+```
+cd /workspaces/TC1033.*
+```
